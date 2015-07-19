@@ -1,8 +1,9 @@
-#Written By Stavan Pandya - 131056
+# Written By Stavan Pandya - 131056
+
 set ns [new Simulator]
 
-$ns color 1 Blue
-$ns color 2 Red
+$ns color 1 Black
+$ns color 2 Orange
 
 
 
