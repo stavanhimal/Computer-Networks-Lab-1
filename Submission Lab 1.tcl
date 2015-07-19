@@ -42,7 +42,7 @@ $n1 shape box
 
 
 
-#c r e a t e l i n k s between t h e nodes
+
 $ns duplex-link $n0 $n1 2Mb 10ms DropTail
 $ns duplex-link $n0 $n3 2Mb 10ms DropTail
 $ns duplex-link $n1 $n2 2Mb 10ms DropTail
