@@ -1,4 +1,4 @@
-
+#Written By Stavan Pandya - 131056
 set ns [new Simulator]
 
 $ns color 1 Blue
